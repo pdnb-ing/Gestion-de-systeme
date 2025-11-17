@@ -1,0 +1,3 @@
+[submodule "gestion-de-systeme"]
+	path = gestion-de-systeme
+	url = https://github.com/pdnb-ing/gestion-de-systeme.git
